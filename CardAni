@@ -1,3 +1,4 @@
+import java.awt.Color;
 class cardAni {
 	Color cardColor;
 	int xPos, yPos;
