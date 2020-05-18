@@ -2,7 +2,7 @@ import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 
-class CardAni {
+public class CardAni {
 	Color cardColor;
 	int xPos, yPos;
 	double size;

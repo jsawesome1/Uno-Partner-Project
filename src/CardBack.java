@@ -2,7 +2,7 @@ import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 
-class CardBack {
+public class CardBack {
 	Color colorBack = new Color(100,100,100);
 	int xPos, yPos;
 	double size;

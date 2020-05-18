@@ -9,7 +9,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
 import javax.swing.*;
-class Screen extends JPanel implements ActionListener {
+public class Screen extends JPanel implements ActionListener {
 	Timer tm = new Timer(30, this);
 	Hand CompA;
 	Hand Player;

@@ -10,7 +10,7 @@ public class Runner {
     JFrame frame = new JFrame("Run");
 
     public static void main(String[] args) {
-   	 new Runner();
+    	new Runner();
     }
     public Runner() {
 	   	 MainMenu main= new MainMenu(this);
